@@ -1,4 +1,4 @@
--- Essential PostgreSQL schema for Tyk hybrid architecture
+-- Essential PostgreSQL schema for Tyk DB-hybrid architecture
 -- Run this on your PostgreSQL database
 
 \c tyk_db;
